@@ -24,7 +24,7 @@
   </div>
 
   <div class="col-12 col-sm-6">
-    <strong>Soma dass quantidades:</strong> {{ totalQuantidade }}
+    <strong>Soma das quantidades:</strong> {{ totalQuantidade }}
   </div>
 
 </div>
