@@ -79,7 +79,7 @@
         <q-card-section class="row items-center">
           <q-icon name="warning" color="warning" size="38px" />
           <div class="q-ml-sm">
-            Deseja realmente excluir <strong>{{ selected?.nome }}</strong>?
+            Deseja excluir <strong>{{ selected?.nome }}</strong>?
           </div>
         </q-card-section>
 
